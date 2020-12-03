@@ -1,4 +1,94 @@
+.taskborder
+{
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    margin: auto;
+    padding: 50px;
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+    word-break: break-all;
+    background-color: rgba(110, 238, 159, 0.603);
+    font-family:sans-serif;
 
+}
+#formGroupExampleInput2
+{
+   box-sizing:border-box ;
+   height:150px ;
+    background-color: #f8f8f8;
+    font-size: 16px;
+   resize: none;
+   word-wrap: break-word;
+   word-break: break-all;
+}
+.form-controlform-control-lg
+{
+ width: 150px;
+ position: relative;
+    left: 610px;
+     bottom: 190px;
+ 
+ 
+ 
+}
+.form-control1{
+ width: 150px;
+ text-align: center;
+ position: relative;
+ left: 610px;
+     bottom: 210px;
+}
+
+.form-group{
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.taskborder{
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.btnbtn-primary{
+    color: rgb(14, 13, 13);
+    background-color: rgb(255, 38, 0);
+    position: relative;
+    left: 620px;
+     bottom: 260px;
+     border-radius: 20px;
+}
+.btn1btn-primary{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    position: relative;
+    left: 600px;
+     bottom: 260px;
+     border-radius: 20px;
+     
+}
+
+#date
+{
+    position: relative;
+ left: 595px;
+     bottom: 250px;
+     width: 150px;
+     
+}
+.control-label1
+{
+    font-family: sans-serif;
+  position: relative;
+ left: 570px;
+     bottom: 250px;
+}
+.textarea {
+    height: auto;
+}
+#formGroupExampleInput{
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
 
 
 
