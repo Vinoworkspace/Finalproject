@@ -1,15 +1,48 @@
-  body {
-  background-color: rgb(212, 231, 231);
-  font-size: 15px;
-  padding: 12px;
-  margin: 12px;
+
+.myselect {
+  width: 200px;
+  position: relative;
+  
 }
-header {
-  text-align: center;
+.myformstyle {
+    background-color: lightblue;
+    border-radius: 20px;
+    border-style: solid;
+    width: 400px;
+    height: 600px;
+}
+.taskborder
+{
+    width: 200px;
+}
+.datewidth
+{
+    width: 150px;
+    
+}
+.btncolor1{
+ background-color:rgb(123, 255, 163);
+ border-radius: 20px;
+ width: 100px;
+ 
+}
+.btncolor2{
+ background-color: lightcoral;
+ border-radius: 20px;
+ width: 100px;
+ 
+}
+.editborder{
+    
+    position: relative;
+    
+}
+.statusbar{
+    width: 200px;
+    position: relative;
+    
 }
 
-h1 {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 3em;
-  color: rgb(27, 25, 25);
-}
+
+
+
